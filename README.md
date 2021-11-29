@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on speech and natural language processing, especially large-scale pre-trained models.
+- 🎓 I obtained my Ph.D. degree at Beihang University, China. Now, I am a senior researcher at Microsoft Research Asia.
+- 📫 How to reach me: Wu.Yu at microsoft.com
+
+[![MarkWuNLP's github stats](https://github-readme-stats.vercel.app/api?username=MarkWuNLP&show_icons=true)](https://github-readme-stats.vercel.app/api?username=MarkWuNLP&show_icons=true)
 <!--
 **MarkWuNLP/MarkWuNLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
